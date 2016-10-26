@@ -4,6 +4,7 @@ A hack to register your desired score on the telegram lumberjack game.
 ###What you need:
 
 - Chrome Browser installed
+- Telegram Desktop Client on Windows
 
 ###What to do
 
